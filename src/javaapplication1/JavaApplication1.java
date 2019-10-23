@@ -18,6 +18,7 @@ public class JavaApplication1 {
         // TODO code application logic here
         System.out.print("spark0");
         System.out.print("spark1");
+        System.out.print("spark2");
     }
     
 }
